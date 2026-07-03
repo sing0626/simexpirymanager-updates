@@ -1,0 +1,20 @@
+{
+  "latestVersion": "4.1.0",
+  "runtimeVersion": "4.0.1",
+  "channel": "production",
+  "type": "apk",
+  "title": "4.1.0 APK 更新",
+  "subtitle": "由 GitHub Actions 生成嘅 Android APK",
+  "changelog": [
+    "GitHub Actions build",
+    "Signed release APK"
+  ],
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/latest/download/latest.apk",
+  "apkFile": "VirtualNumberApp-v4.1.0-android-arm64.apk",
+  "apkSizeMb": 49.7,
+  "apkSha256": "6209298051534034416523692ddfd08aaf7bb817365e2963173090a25ba21645",
+  "apkMd5": "75441de22df61ff4174f73faad210caa",
+  "sourceName": "GitHub Releases",
+  "required": false,
+  "publishedAt": "2026-07-03T17:26:43.331Z"
+}
