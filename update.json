@@ -1,24 +1,23 @@
 {
-  "latestVersion": "4.1.0",
+  "latestVersion": "4.1.15",
   "runtimeVersion": "4.0.1",
-  "channel": "production",
+  "channel": "beta",
   "type": "apk",
-  "title": "4.1.0 APK 更新",
-  "subtitle": "由 GitHub Actions 生成嘅 Android APK",
+  "title": "4.1.15 Beta APK 更新",
+  "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "changelog": [
-    "GitHub Actions build",
-    "Signed release APK"
+    "publish draft release by action id"
   ],
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/latest/download/latest.apk",
-  "apkFile": "VirtualNumberApp-v4.1.0-android-arm64.apk",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.1.15-15/simexpirymanager-v4.1.15-arm64.apk",
+  "apkFile": "simexpirymanager-v4.1.15-arm64.apk",
   "apkSizeMb": 49.8,
-  "apkSha256": "dacc40803f3f4fccd2c4e741d6e9a2c8ad55644a5bf3034a0ae7a905353440bc",
-  "apkMd5": "2c6a000d85709ed297182b401a44e6c9",
-  "releaseTag": "android-v4.1.0-9",
-  "buildNumber": "9",
+  "apkSha256": "bab62fc8676f1aeb4fd658028bbdeb084fb06648ea4e37f6e30054f6e3748e88",
+  "apkMd5": "31ed539451f5e470625ebdea29dbe9b8",
+  "releaseTag": "android-beta-v4.1.15-15",
+  "buildNumber": "15",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-04T09:21:54.059Z",
+  "publishedAt": "2026-07-04T11:59:29.152Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "26b10b0202105c7455eb3b77c48d8c70812a136924e719c2f9222c5829d792b0"
+  "manifestPayloadSha256": "9b661f57f9b9242a93c550d7c930472eec33cba01715b147ab743f6b7ab5b696"
 }
