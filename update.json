@@ -11,14 +11,14 @@
   ],
   "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/latest/download/latest.apk",
   "apkFile": "VirtualNumberApp-v4.1.0-android-arm64.apk",
-  "apkSizeMb": 49.7,
-  "apkSha256": "20817060041a76b9fd13b696765b8ada39982df6029b19798d2b17fc1fc46e95",
-  "apkMd5": "3edf09dbdcffaeeae001d42d7e64476c",
-  "releaseTag": "android-v4.1.0-7",
-  "buildNumber": "7",
+  "apkSizeMb": 49.8,
+  "apkSha256": "593627b1451a7b43142852637b2b3b4a58b09372df5824af15530a1b9730a169",
+  "apkMd5": "b5c24106ec35de549eb0ba4c68610564",
+  "releaseTag": "android-v4.1.0-8",
+  "buildNumber": "8",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-04T07:00:09.276Z",
+  "publishedAt": "2026-07-04T08:25:30.089Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "63dce9cdee8217613beaeae7a0f3a91a6723f806d4abfa2a5c3e1856175b7acf"
+  "manifestPayloadSha256": "6fab12f781b096f5fd1afed0e380fd4c7ed2d69b109673a1ec9466e9932b7252"
 }
