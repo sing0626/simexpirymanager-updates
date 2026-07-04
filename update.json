@@ -1,23 +1,23 @@
 {
-  "latestVersion": "4.1.17",
+  "latestVersion": "4.1.18",
   "runtimeVersion": "4.0.1",
   "channel": "beta",
   "type": "apk",
-  "title": "4.1.17 Beta APK 更新",
+  "title": "4.1.18 Beta APK 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "changelog": [
-    "改善更新彈窗顯示"
+    "加入廣東話同最新版本提示"
   ],
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.1.17-17/simexpirymanager-v4.1.17-arm64.apk",
-  "apkFile": "simexpirymanager-v4.1.17-arm64.apk",
-  "apkSizeMb": 49.8,
-  "apkSha256": "bbe451dd25f3033e46429830b1717476f5d7f03dd70e8717dfdd1354c18c2360",
-  "apkMd5": "82daf53acbb78ad834a19cb0e3159b0b",
-  "releaseTag": "android-beta-v4.1.17-17",
-  "buildNumber": "17",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.1.18-18/simexpirymanager-v4.1.18-arm64.apk",
+  "apkFile": "simexpirymanager-v4.1.18-arm64.apk",
+  "apkSizeMb": 49.9,
+  "apkSha256": "e13b9c2ad07c34b77d169d5810f5a8cd1040dc76f655b862c444ea7f974be043",
+  "apkMd5": "06fce6b69144199c39076794ccc1a9c3",
+  "releaseTag": "android-beta-v4.1.18-18",
+  "buildNumber": "18",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-04T14:27:30.353Z",
+  "publishedAt": "2026-07-04T15:38:24.340Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "7286164e809301f08f0b45b17915076c37b48c98027896ab80e86013fd7a9d47"
+  "manifestPayloadSha256": "2ec68c38b353352b1a3430989acaa07c449b75f6bffff68626f22181bd0e546e"
 }
