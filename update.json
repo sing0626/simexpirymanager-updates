@@ -1,23 +1,25 @@
 {
-  "latestVersion": "4.3.0-Beta1",
+  "latestVersion": "4.3.0-Beta2",
   "runtimeVersion": "4.0.1",
   "channel": "beta",
   "type": "apk",
-  "title": "4.3.0-Beta1 Beta APK 更新",
+  "title": "4.3.0-Beta2 Beta APK 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "changelog": [
-    "adopt beta suffix versioning"
+    "fix Google sign-in and add account center"
   ],
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.3.0-Beta1-22/simexpirymanager-v4.3.0-Beta1-arm64.apk",
-  "apkFile": "simexpirymanager-v4.3.0-Beta1-arm64.apk",
-  "apkSizeMb": 50,
-  "apkSha256": "8a63b8838bdc19f30148ea8ba479b177a3e1fd2cd684ebb95ce6b752976d9c25",
-  "apkMd5": "c852da35bb1074b543d20b3d604bd884",
-  "releaseTag": "android-beta-v4.3.0-Beta1-22",
-  "buildNumber": "22",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.3.0-Beta2-23/simexpirymanager-v4.3.0-Beta2-arm64.apk",
+  "apkFile": "simexpirymanager-v4.3.0-Beta2-arm64.apk",
+  "apkSizeMb": 50.1,
+  "apkSha256": "eed05bfaf1108e835ded32637674b237a851f2a3c46aab39afc2617b8a46ffde",
+  "apkMd5": "542e368d2bee264415eea875b3f8df52",
+  "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
+  "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+  "releaseTag": "android-beta-v4.3.0-Beta2-23",
+  "buildNumber": "23",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-05T15:45:03.158Z",
+  "publishedAt": "2026-07-05T21:40:18.125Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "5edb1f94564620d2cc1d9ef800a120bd675005b9d52d9c7a5abc6da856d915ea"
+  "manifestPayloadSha256": "813ee084be14c86e1a7fb061c9e5fadf28d9c65aa8392aaa7a16cd243e469b35"
 }
