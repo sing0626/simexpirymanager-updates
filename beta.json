@@ -1,26 +1,23 @@
 {
-  "latestVersion": "4.2.21",
+  "latestVersion": "4.3.0-Beta1",
   "runtimeVersion": "4.0.1",
   "channel": "beta",
   "type": "apk",
-  "title": "4.2.21 Beta APK 更新",
+  "title": "4.3.0-Beta1 Beta APK 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "changelog": [
-    "改善 OTA 更新頁下載體驗",
-    "更新內容區改為獨立可滾動，避免 changelog 太長擋住按鈕",
-    "下載進度條固定喺下載並安裝按鈕上方",
-    "APK 下載期間顯示即時 MB/s 速度"
+    "adopt beta suffix versioning"
   ],
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.2.21-21/simexpirymanager-v4.2.21-arm64.apk",
-  "apkFile": "simexpirymanager-v4.2.21-arm64.apk",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.3.0-Beta1-22/simexpirymanager-v4.3.0-Beta1-arm64.apk",
+  "apkFile": "simexpirymanager-v4.3.0-Beta1-arm64.apk",
   "apkSizeMb": 50,
-  "apkSha256": "f76a336d0649dee30fb8d9fb98437b035ab0b394d97c6d663e43481a1d42a2a7",
-  "apkMd5": "9eaf7b19cab3c903fabe92f9878de435",
-  "releaseTag": "android-beta-v4.2.21-21",
-  "buildNumber": "21",
+  "apkSha256": "8a63b8838bdc19f30148ea8ba479b177a3e1fd2cd684ebb95ce6b752976d9c25",
+  "apkMd5": "c852da35bb1074b543d20b3d604bd884",
+  "releaseTag": "android-beta-v4.3.0-Beta1-22",
+  "buildNumber": "22",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-05T11:46:57.691Z",
+  "publishedAt": "2026-07-05T15:45:03.158Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "a749eed4d38128e0b226bf65efc0e4d7dba92833e20c71c00114a25aea9f9819"
+  "manifestPayloadSha256": "5edb1f94564620d2cc1d9ef800a120bd675005b9d52d9c7a5abc6da856d915ea"
 }
