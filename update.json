@@ -1,23 +1,30 @@
 {
-  "latestVersion": "4.1.19",
+  "latestVersion": "4.2.20",
   "runtimeVersion": "4.0.1",
   "channel": "beta",
   "type": "apk",
-  "title": "4.1.19 Beta APK 更新",
+  "title": "4.2.20 Beta APK 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "changelog": [
-    "加入分流更新公告同Stable日誌聚合"
+    "加入漫遊卡套餐同 4.2.0 Beta",
+    "新增漫遊卡日數/GB preset、自訂用量、地區同開卡日",
+    "加入 Airalo/eSIM Go API 記錄欄位，API key 留後端保管",
+    "更新漫遊卡列表、詳情、搜尋、CSV/ICS 同資料健康",
+    "補齊 JP 日文翻譯同 jp generated 流程",
+    "加入廣東話/日文語言、App 鎖定、回收桶同批量工具",
+    "改善 GitHub OTA、Beta/Stable channel、release notes 同 APK 更新",
+    "改善刪除確認、卡片動作選單、通知、統計同資料修正工具"
   ],
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.1.19-19/simexpirymanager-v4.1.19-arm64.apk",
-  "apkFile": "simexpirymanager-v4.1.19-arm64.apk",
-  "apkSizeMb": 49.9,
-  "apkSha256": "e0594979d6fab8e89836da71d66fc1faccc414e92b13f4834f6b5466943e3083",
-  "apkMd5": "6f25fab115d6a7bd64936141b998240e",
-  "releaseTag": "android-beta-v4.1.19-19",
-  "buildNumber": "19",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.2.20-20/simexpirymanager-v4.2.20-arm64.apk",
+  "apkFile": "simexpirymanager-v4.2.20-arm64.apk",
+  "apkSizeMb": 50,
+  "apkSha256": "640ac7d630f4f8aeade2a50138423971b3c42d3148fbae859b890b98817850bd",
+  "apkMd5": "33e9a7a8c2493d42a8cd75d2b9c9fe4f",
+  "releaseTag": "android-beta-v4.2.20-20",
+  "buildNumber": "20",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-04T16:15:08.799Z",
+  "publishedAt": "2026-07-05T10:57:12.755Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "b5747d2645cb9ac3e8ac649c4e487b942c322e2643fa6efbe021b17788438666"
+  "manifestPayloadSha256": "123fa5b2de699bf38b674c9181cb14a04b4c7a4e644a70026755f4196693263f"
 }
