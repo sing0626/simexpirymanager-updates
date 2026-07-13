@@ -1,25 +1,30 @@
 {
-  "latestVersion": "4.3.0-Beta2",
-  "runtimeVersion": "4.0.1",
+  "latestVersion": "5.0.1-Beta1",
+  "runtimeVersion": "5.0.1-Beta1",
   "channel": "beta",
   "type": "apk",
-  "title": "4.3.0-Beta2 Beta APK 更新",
+  "title": "5.0.1-Beta1 Beta APK 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "changelog": [
-    "fix Google sign-in and add account center"
+    "新增完整 Android 主畫面 Widget，顯示卡片總數、待處理數量及最近三張到期卡",
+    "Widget 支援即時及定時刷新、App 語言、私隱模式同撳一下開啟 App",
+    "動畫設定整理為關閉、輕量、流暢、豐富四個模式",
+    "移除無用循環動畫並降低列表滾動 JS 負擔，提升低階 Android 流暢度",
+    "修正 OTA 更新內容無法順暢上下滾動及手勢互相搶奪",
+    "改善 Widget 到期日自動重算、Launcher 預覽及設定頁手動同步"
   ],
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v4.3.0-Beta2-23/simexpirymanager-v4.3.0-Beta2-arm64.apk",
-  "apkFile": "simexpirymanager-v4.3.0-Beta2-arm64.apk",
-  "apkSizeMb": 50.1,
-  "apkSha256": "eed05bfaf1108e835ded32637674b237a851f2a3c46aab39afc2617b8a46ffde",
-  "apkMd5": "542e368d2bee264415eea875b3f8df52",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.1-Beta1-27/simexpirymanager-v5.0.1-Beta1-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.1-Beta1-arm64.apk",
+  "apkSizeMb": 50.4,
+  "apkSha256": "a19f753619f5aa92dabe1777712f6cac02a8dd3cd26a07f0624757d81ac7a5ff",
+  "apkMd5": "6e72c46c24ecfbd699033c67cc1e9513",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v4.3.0-Beta2-23",
-  "buildNumber": "23",
+  "releaseTag": "android-beta-v5.0.1-Beta1-27",
+  "buildNumber": "27",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-05T21:40:18.125Z",
+  "publishedAt": "2026-07-13T16:19:43.121Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "813ee084be14c86e1a7fb061c9e5fadf28d9c65aa8392aaa7a16cd243e469b35"
+  "manifestPayloadSha256": "76604d4dddbaa5640ad414d8838d58533390d3c27029d52ee1db6f31143c218f"
 }
