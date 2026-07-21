@@ -1,25 +1,89 @@
 {
-  "latestVersion": "5.0.1-Beta2",
-  "runtimeVersion": "5.0.1-Beta2",
+  "latestVersion": "5.0.2-Beta1",
+  "runtimeVersion": "5.0.2-Beta1",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.1-Beta2 Beta APK 更新",
+  "title": "5.0.2-Beta1 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
+  "titleByLocale": {
+    "yue-Hant": "5.0.2-Beta1 Beta 更新",
+    "zh-Hant": "5.0.2-Beta1 Beta 更新",
+    "zh-Hans": "5.0.2-Beta1 Beta 更新",
+    "en": "5.0.2-Beta1 Beta Update",
+    "ko": "5.0.2-Beta1 Beta 업데이트",
+    "jp": "5.0.2-Beta1 Beta アップデート"
+  },
+  "subtitleByLocale": {
+    "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
+    "zh-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
+    "zh-Hans": "由 GitHub Actions 生成的 Android Beta APK",
+    "en": "Android Beta APK from GitHub Actions",
+    "ko": "GitHub Actions Android Beta APK",
+    "jp": "GitHub Actions の Android Beta APK"
+  },
   "changelog": [
-    "trigger Android builds for widget changes"
+    "統一設定／工具／備份／列表操作 sheet 為 Widget Settings 風格（狀態 hero、分區、主次按鈕）",
+    "升級處理中心、通知設定、帳號中心、首頁卡片層次",
+    "底欄改為簡潔浮動列：五格平排、細藍 active／新增 icon",
+    "動畫更豐富：入場 scale、sheet 彈簧、流暢模式都有數據條動畫；豐富模式更彈",
+    "版本號更新至 5.0.2"
   ],
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.1-Beta2-29/simexpirymanager-v5.0.1-Beta2-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.1-Beta2-arm64.apk",
+  "changelogByLocale": {
+    "yue-Hant": [
+      "統一設定／工具／備份／列表操作 sheet 為 Widget Settings 風格（狀態 hero、分區、主次按鈕）",
+      "升級處理中心、通知設定、帳號中心、首頁卡片層次",
+      "底欄改為簡潔浮動列：五格平排、細藍 active／新增 icon",
+      "動畫更豐富：入場 scale、sheet 彈簧、流暢模式都有數據條動畫；豐富模式更彈",
+      "版本號更新至 5.0.2"
+    ],
+    "zh-Hant": [
+      "統一設定／工具／備份／列表操作 sheet 為 Widget Settings 風格（狀態 hero、分區、主次按鈕）",
+      "升級處理中心、通知設定、帳號中心、首頁卡片層次",
+      "底欄改為簡潔浮動列：五格平排、細藍 active／新增 icon",
+      "動畫更豐富：入場 scale、sheet 彈簧、流暢模式都有數據條動畫；豐富模式更彈",
+      "版本號更新至 5.0.2"
+    ],
+    "zh-Hans": [
+      "统一设置／工具／备份／列表操作 sheet 为 Widget Settings 风格（状态 hero、分区、主次按钮）",
+      "升级处理中心、通知设置、账号中心、首页卡片层次",
+      "底栏改为简洁浮动栏：五格平排、细蓝 active／新增 icon",
+      "动画更丰富：入场 scale、sheet 弹簧、流畅模式也有数据条动画；丰富模式更弹",
+      "版本号更新至 5.0.2"
+    ],
+    "en": [
+      "Unified settings, tools, backup, and list-action sheets to the Widget Settings look",
+      "Polished Action Center, notification settings, account center, and home card hierarchy",
+      "Cleaner floating bottom bar with five flat tabs and small blue active/add icons",
+      "Richer motion: enter scale, springy sheets, progress bars on Smooth; stronger springs on Rich",
+      "App version set to 5.0.2"
+    ],
+    "ko": [
+      "설정·도구·백업·목록 작업 시트를 Widget Settings 스타일로 통일",
+      "처리 센터, 알림 설정, 계정 센터, 홈 카드 계층 개선",
+      "하단 바를 깔끔한 플로팅 바로 변경",
+      "모션 강화: 입장 스케일, 시트 스프링, 원활 모드에서도 진행 바 애니메이션",
+      "앱 버전 5.0.2"
+    ],
+    "jp": [
+      "設定・ツール・バックアップ・リスト操作シートを Widget Settings 風に統一",
+      "処理センター、通知設定、アカウント、ホームカード階層を改善",
+      "ボトムバーをすっきりしたフローティングバーに",
+      "モーション強化：入場スケール、シートのスプリング、スムーズでも進捗バー",
+      "アプリバージョン 5.0.2"
+    ]
+  },
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta1-30/simexpirymanager-v5.0.2-Beta1-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.2-Beta1-arm64.apk",
   "apkSizeMb": 50.5,
-  "apkSha256": "1fe113b3a08572a4a24dfd1fcb07af1b7b9bb0872ef9b00b5b3a58bb151d6ed7",
-  "apkMd5": "9a5733a744f93c49a059693f99607b20",
+  "apkSha256": "31422443077d3cdd8766795a95c7a94680906df73e852450977b4dd245cf6270",
+  "apkMd5": "f1e5f0c362a49b823e2f0f0efc66b75c",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.1-Beta2-29",
-  "buildNumber": "29",
+  "releaseTag": "android-beta-v5.0.2-Beta1-30",
+  "buildNumber": "30",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-14T06:16:12.790Z",
+  "publishedAt": "2026-07-16T19:55:08.329Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "378f8112aae43ae5568fec4bc4f06229a8b375198f1ff9b4320180db3a335af8"
+  "manifestPayloadSha256": "1eb09557dda5fa138ff457bf32e14876560f06706696ac475055815e2eaa3927"
 }
