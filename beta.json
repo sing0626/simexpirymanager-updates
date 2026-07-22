@@ -1,17 +1,17 @@
 {
-  "latestVersion": "5.0.2-Beta2",
-  "runtimeVersion": "5.0.2-Beta2",
+  "latestVersion": "5.0.2-Beta3",
+  "runtimeVersion": "5.0.2-Beta3",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.2-Beta2 Beta 更新",
+  "title": "5.0.2-Beta3 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "titleByLocale": {
-    "yue-Hant": "5.0.2-Beta2 Beta 更新",
-    "zh-Hant": "5.0.2-Beta2 Beta 更新",
-    "zh-Hans": "5.0.2-Beta2 Beta 更新",
-    "en": "5.0.2-Beta2 Beta Update",
-    "ko": "5.0.2-Beta2 Beta 업데이트",
-    "jp": "5.0.2-Beta2 Beta アップデート"
+    "yue-Hant": "5.0.2-Beta3 Beta 更新",
+    "zh-Hant": "5.0.2-Beta3 Beta 更新",
+    "zh-Hans": "5.0.2-Beta3 Beta 更新",
+    "en": "5.0.2-Beta3 Beta Update",
+    "ko": "5.0.2-Beta3 Beta 업데이트",
+    "jp": "5.0.2-Beta3 Beta アップデート"
   },
   "subtitleByLocale": {
     "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
@@ -22,54 +22,82 @@
     "jp": "GitHub Actions の Android Beta APK"
   },
   "changelog": [
-    "修復更新 channel 讀取（Stable/Beta 檔名 fallback）",
-    "修復 CI data usage freshness test",
-    "5.0.2-Beta2"
+    "離線同步狀態中心：主頁橫幅、佇列重試",
+    "智能今日優先卡 + 快捷續期／增值",
+    "Widget 一鍵 +30 日／+50 增值 deep link",
+    "衝突欄位對比同逐欄合併",
+    "分享連結／QR／公開網頁",
+    "智能提醒規則編輯、行程日曆總覽",
+    "修復更新 channel 讀取（Stable/Beta 檔名）"
   ],
   "changelogByLocale": {
     "yue-Hant": [
-      "修復更新 channel 讀取（Stable/Beta 檔名 fallback）",
-      "修復 CI data usage freshness test",
-      "5.0.2-Beta2"
+      "離線同步狀態中心：主頁橫幅、佇列重試",
+      "智能今日優先卡 + 快捷續期／增值",
+      "Widget 一鍵 +30 日／+50 增值 deep link",
+      "衝突欄位對比同逐欄合併",
+      "分享連結／QR／公開網頁",
+      "智能提醒規則編輯、行程日曆總覽",
+      "修復更新 channel 讀取（Stable/Beta 檔名）"
     ],
     "zh-Hant": [
-      "修復更新 channel 讀取（Stable/Beta 檔名 fallback）",
-      "修復 CI data usage freshness test",
-      "5.0.2-Beta2"
+      "離線同步狀態中心：主頁橫幅、佇列重試",
+      "智能今日優先卡 + 快捷續期／增值",
+      "Widget 一鍵 +30 日／+50 增值 deep link",
+      "衝突欄位對比同逐欄合併",
+      "分享連結／QR／公開網頁",
+      "智能提醒規則編輯、行程日曆總覽",
+      "修復更新 channel 讀取（Stable/Beta 檔名）"
     ],
     "zh-Hans": [
-      "修復更新 channel 讀取（Stable/Beta 檔名 fallback）",
-      "修復 CI data usage freshness test",
-      "5.0.2-Beta2"
+      "離線同步狀態中心：主頁橫幅、佇列重試",
+      "智能今日優先卡 + 快捷續期／增值",
+      "Widget 一鍵 +30 日／+50 增值 deep link",
+      "衝突欄位對比同逐欄合併",
+      "分享連結／QR／公開網頁",
+      "智能提醒規則編輯、行程日曆總覽",
+      "修復更新 channel 讀取（Stable/Beta 檔名）"
     ],
     "en": [
-      "修復更新 channel 讀取（Stable/Beta 檔名 fallback）",
-      "修復 CI data usage freshness test",
-      "5.0.2-Beta2"
+      "離線同步狀態中心：主頁橫幅、佇列重試",
+      "智能今日優先卡 + 快捷續期／增值",
+      "Widget 一鍵 +30 日／+50 增值 deep link",
+      "衝突欄位對比同逐欄合併",
+      "分享連結／QR／公開網頁",
+      "智能提醒規則編輯、行程日曆總覽",
+      "修復更新 channel 讀取（Stable/Beta 檔名）"
     ],
     "ko": [
-      "修復更新 channel 讀取（Stable/Beta 檔名 fallback）",
-      "修復 CI data usage freshness test",
-      "5.0.2-Beta2"
+      "離線同步狀態中心：主頁橫幅、佇列重試",
+      "智能今日優先卡 + 快捷續期／增值",
+      "Widget 一鍵 +30 日／+50 增值 deep link",
+      "衝突欄位對比同逐欄合併",
+      "分享連結／QR／公開網頁",
+      "智能提醒規則編輯、行程日曆總覽",
+      "修復更新 channel 讀取（Stable/Beta 檔名）"
     ],
     "jp": [
-      "修復更新 channel 讀取（Stable/Beta 檔名 fallback）",
-      "修復 CI data usage freshness test",
-      "5.0.2-Beta2"
+      "離線同步狀態中心：主頁橫幅、佇列重試",
+      "智能今日優先卡 + 快捷續期／增值",
+      "Widget 一鍵 +30 日／+50 增值 deep link",
+      "衝突欄位對比同逐欄合併",
+      "分享連結／QR／公開網頁",
+      "智能提醒規則編輯、行程日曆總覽",
+      "修復更新 channel 讀取（Stable/Beta 檔名）"
     ]
   },
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta2-33/simexpirymanager-v5.0.2-Beta2-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.2-Beta2-arm64.apk",
-  "apkSizeMb": 50.5,
-  "apkSha256": "9dcfba9a9219ab8d83077c97abe8f7c8a4c934eb90d8c109187c3f97687f38aa",
-  "apkMd5": "7421f98d658e0d1e47fb9939b1556913",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta3-35/simexpirymanager-v5.0.2-Beta3-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.2-Beta3-arm64.apk",
+  "apkSizeMb": 50.6,
+  "apkSha256": "3c929a4e7c198b6839b7fbaaef02917092b108156313dc724510db78d966faad",
+  "apkMd5": "c8fb6aa919af56f684fadbdf67ecc840",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.2-Beta2-33",
-  "buildNumber": "33",
+  "releaseTag": "android-beta-v5.0.2-Beta3-35",
+  "buildNumber": "35",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-21T17:44:35.610Z",
+  "publishedAt": "2026-07-22T18:46:53.445Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "62893a20f2503920d21a575b1ffeba857701208632374ef730b4171f5a04c845"
+  "manifestPayloadSha256": "b1c0f62189c9eef9734f41140c38c571736a40e2e28f45c29e8d81d8f9a2b969"
 }
