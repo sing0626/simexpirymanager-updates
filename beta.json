@@ -1,17 +1,17 @@
 {
-  "latestVersion": "5.0.2-Beta3",
-  "runtimeVersion": "5.0.2-Beta3",
+  "latestVersion": "5.0.2-Beta4",
+  "runtimeVersion": "5.0.2-Beta4",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.2-Beta3 Beta 更新",
+  "title": "5.0.2-Beta4 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "titleByLocale": {
-    "yue-Hant": "5.0.2-Beta3 Beta 更新",
-    "zh-Hant": "5.0.2-Beta3 Beta 更新",
-    "zh-Hans": "5.0.2-Beta3 Beta 更新",
-    "en": "5.0.2-Beta3 Beta Update",
-    "ko": "5.0.2-Beta3 Beta 업데이트",
-    "jp": "5.0.2-Beta3 Beta アップデート"
+    "yue-Hant": "5.0.2-Beta4 Beta 更新",
+    "zh-Hant": "5.0.2-Beta4 Beta 更新",
+    "zh-Hans": "5.0.2-Beta4 Beta 更新",
+    "en": "5.0.2-Beta4 Beta Update",
+    "ko": "5.0.2-Beta4 Beta 업데이트",
+    "jp": "5.0.2-Beta4 Beta アップデート"
   },
   "subtitleByLocale": {
     "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
@@ -22,82 +22,75 @@
     "jp": "GitHub Actions の Android Beta APK"
   },
   "changelog": [
-    "離線同步狀態中心：主頁橫幅、佇列重試",
-    "智能今日優先卡 + 快捷續期／增值",
-    "Widget 一鍵 +30 日／+50 增值 deep link",
-    "衝突欄位對比同逐欄合併",
-    "分享連結／QR／公開網頁",
-    "智能提醒規則編輯、行程日曆總覽",
-    "修復更新 channel 讀取（Stable/Beta 檔名）"
+    "黑半透明 glass 卡片／帳號中心／設定 sheet",
+    "Sheet 跟手拖動、柔和關閉動畫",
+    "長按卡片選單可捲動",
+    "分享連結撤銷列表",
+    "衝突合併同欄位對比改善",
+    "Wallpaper 底下卡片清晰可見"
   ],
   "changelogByLocale": {
     "yue-Hant": [
-      "離線同步狀態中心：主頁橫幅、佇列重試",
-      "智能今日優先卡 + 快捷續期／增值",
-      "Widget 一鍵 +30 日／+50 增值 deep link",
-      "衝突欄位對比同逐欄合併",
-      "分享連結／QR／公開網頁",
-      "智能提醒規則編輯、行程日曆總覽",
-      "修復更新 channel 讀取（Stable/Beta 檔名）"
+      "黑半透明 glass 卡片／帳號中心／設定 sheet",
+      "Sheet 跟手拖動、柔和關閉動畫",
+      "長按卡片選單可捲動",
+      "分享連結撤銷列表",
+      "衝突合併同欄位對比改善",
+      "Wallpaper 底下卡片清晰可見"
     ],
     "zh-Hant": [
-      "離線同步狀態中心：主頁橫幅、佇列重試",
-      "智能今日優先卡 + 快捷續期／增值",
-      "Widget 一鍵 +30 日／+50 增值 deep link",
-      "衝突欄位對比同逐欄合併",
-      "分享連結／QR／公開網頁",
-      "智能提醒規則編輯、行程日曆總覽",
-      "修復更新 channel 讀取（Stable/Beta 檔名）"
+      "黑半透明 glass 卡片／帳號中心／設定 sheet",
+      "Sheet 跟手拖動、柔和關閉動畫",
+      "長按卡片選單可捲動",
+      "分享連結撤銷列表",
+      "衝突合併同欄位對比改善",
+      "Wallpaper 底下卡片清晰可見"
     ],
     "zh-Hans": [
-      "離線同步狀態中心：主頁橫幅、佇列重試",
-      "智能今日優先卡 + 快捷續期／增值",
-      "Widget 一鍵 +30 日／+50 增值 deep link",
-      "衝突欄位對比同逐欄合併",
-      "分享連結／QR／公開網頁",
-      "智能提醒規則編輯、行程日曆總覽",
-      "修復更新 channel 讀取（Stable/Beta 檔名）"
+      "黑半透明 glass 卡片／帳號中心／設定 sheet",
+      "Sheet 跟手拖動、柔和關閉動畫",
+      "長按卡片選單可捲動",
+      "分享連結撤銷列表",
+      "衝突合併同欄位對比改善",
+      "Wallpaper 底下卡片清晰可見"
     ],
     "en": [
-      "離線同步狀態中心：主頁橫幅、佇列重試",
-      "智能今日優先卡 + 快捷續期／增值",
-      "Widget 一鍵 +30 日／+50 增值 deep link",
-      "衝突欄位對比同逐欄合併",
-      "分享連結／QR／公開網頁",
-      "智能提醒規則編輯、行程日曆總覽",
-      "修復更新 channel 讀取（Stable/Beta 檔名）"
+      "黑半透明 glass 卡片／帳號中心／設定 sheet",
+      "Sheet 跟手拖動、柔和關閉動畫",
+      "長按卡片選單可捲動",
+      "分享連結撤銷列表",
+      "衝突合併同欄位對比改善",
+      "Wallpaper 底下卡片清晰可見"
     ],
     "ko": [
-      "離線同步狀態中心：主頁橫幅、佇列重試",
-      "智能今日優先卡 + 快捷續期／增值",
-      "Widget 一鍵 +30 日／+50 增值 deep link",
-      "衝突欄位對比同逐欄合併",
-      "分享連結／QR／公開網頁",
-      "智能提醒規則編輯、行程日曆總覽",
-      "修復更新 channel 讀取（Stable/Beta 檔名）"
+      "黑半透明 glass 卡片／帳號中心／設定 sheet",
+      "Sheet 跟手拖動、柔和關閉動畫",
+      "長按卡片選單可捲動",
+      "分享連結撤銷列表",
+      "衝突合併同欄位對比改善",
+      "Wallpaper 底下卡片清晰可見"
     ],
     "jp": [
-      "離線同步狀態中心：主頁橫幅、佇列重試",
-      "智能今日優先卡 + 快捷續期／增值",
-      "Widget 一鍵 +30 日／+50 增值 deep link",
-      "衝突欄位對比同逐欄合併",
-      "分享連結／QR／公開網頁",
-      "智能提醒規則編輯、行程日曆總覽",
-      "修復更新 channel 讀取（Stable/Beta 檔名）"
+      "黑半透明 glass 卡片／帳號中心／設定 sheet",
+      "Sheet 跟手拖動、柔和關閉動畫",
+      "長按卡片選單可捲動",
+      "分享連結撤銷列表",
+      "衝突合併同欄位對比改善",
+      "Wallpaper 底下卡片清晰可見"
     ]
   },
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta3-35/simexpirymanager-v5.0.2-Beta3-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.2-Beta3-arm64.apk",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta4-37/simexpirymanager-v5.0.2-Beta4-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.2-Beta4-arm64.apk",
   "apkSizeMb": 50.6,
-  "apkSha256": "3c929a4e7c198b6839b7fbaaef02917092b108156313dc724510db78d966faad",
-  "apkMd5": "c8fb6aa919af56f684fadbdf67ecc840",
+  "apkSha256": "b42b11f238c26bc7e3007cc1828dccf36069a5c7f0ec69064d587aca4ece38ff",
+  "apkMd5": "33322cfa1dd7488f9f1a051c6a2ef3c6",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.2-Beta3-35",
-  "buildNumber": "35",
+  "releaseTag": "android-beta-v5.0.2-Beta4-37",
+  "buildNumber": "37",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-22T18:46:53.445Z",
+  "publishedAt": "2026-07-23T18:03:25.838Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "b1c0f62189c9eef9734f41140c38c571736a40e2e28f45c29e8d81d8f9a2b969"
+  "manifestPayloadSha256": "d7759ed426d3fb5c950d972ee4e2e4783b1c104ad0824081713684db095cb9ff"
 }
