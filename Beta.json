@@ -1,17 +1,17 @@
 {
-  "latestVersion": "5.0.2-Beta4",
-  "runtimeVersion": "5.0.2-Beta4",
+  "latestVersion": "5.0.2-Beta5",
+  "runtimeVersion": "5.0.2-Beta5",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.2-Beta4 Beta 更新",
+  "title": "5.0.2-Beta5 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "titleByLocale": {
-    "yue-Hant": "5.0.2-Beta4 Beta 更新",
-    "zh-Hant": "5.0.2-Beta4 Beta 更新",
-    "zh-Hans": "5.0.2-Beta4 Beta 更新",
-    "en": "5.0.2-Beta4 Beta Update",
-    "ko": "5.0.2-Beta4 Beta 업데이트",
-    "jp": "5.0.2-Beta4 Beta アップデート"
+    "yue-Hant": "5.0.2-Beta5 Beta 更新",
+    "zh-Hant": "5.0.2-Beta5 Beta 更新",
+    "zh-Hans": "5.0.2-Beta5 Beta 更新",
+    "en": "5.0.2-Beta5 Beta Update",
+    "ko": "5.0.2-Beta5 Beta 업데이트",
+    "jp": "5.0.2-Beta5 Beta アップデート"
   },
   "subtitleByLocale": {
     "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
@@ -22,75 +22,75 @@
     "jp": "GitHub Actions の Android Beta APK"
   },
   "changelog": [
-    "黑半透明 glass 卡片／帳號中心／設定 sheet",
-    "Sheet 跟手拖動、柔和關閉動畫",
-    "長按卡片選單可捲動",
-    "分享連結撤銷列表",
-    "衝突合併同欄位對比改善",
-    "Wallpaper 底下卡片清晰可見"
+    "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
+    "Sheet 跟手拖動、柔和關閉，減少閃一下",
+    "長按卡片操作選單可捲動",
+    "Wallpaper 底下卡片仍然清晰",
+    "分享連結可撤銷列表",
+    "修正 Beta4 更新公告同 Beta3 重複嘅條目"
   ],
   "changelogByLocale": {
     "yue-Hant": [
-      "黑半透明 glass 卡片／帳號中心／設定 sheet",
-      "Sheet 跟手拖動、柔和關閉動畫",
-      "長按卡片選單可捲動",
-      "分享連結撤銷列表",
-      "衝突合併同欄位對比改善",
-      "Wallpaper 底下卡片清晰可見"
+      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
+      "Sheet 跟手拖動、柔和關閉，減少閃一下",
+      "長按卡片操作選單可捲動",
+      "Wallpaper 底下卡片仍然清晰",
+      "分享連結可撤銷列表",
+      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
     ],
     "zh-Hant": [
-      "黑半透明 glass 卡片／帳號中心／設定 sheet",
-      "Sheet 跟手拖動、柔和關閉動畫",
-      "長按卡片選單可捲動",
-      "分享連結撤銷列表",
-      "衝突合併同欄位對比改善",
-      "Wallpaper 底下卡片清晰可見"
+      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
+      "Sheet 跟手拖動、柔和關閉，減少閃一下",
+      "長按卡片操作選單可捲動",
+      "Wallpaper 底下卡片仍然清晰",
+      "分享連結可撤銷列表",
+      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
     ],
     "zh-Hans": [
-      "黑半透明 glass 卡片／帳號中心／設定 sheet",
-      "Sheet 跟手拖動、柔和關閉動畫",
-      "長按卡片選單可捲動",
-      "分享連結撤銷列表",
-      "衝突合併同欄位對比改善",
-      "Wallpaper 底下卡片清晰可見"
+      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
+      "Sheet 跟手拖動、柔和關閉，減少閃一下",
+      "長按卡片操作選單可捲動",
+      "Wallpaper 底下卡片仍然清晰",
+      "分享連結可撤銷列表",
+      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
     ],
     "en": [
-      "黑半透明 glass 卡片／帳號中心／設定 sheet",
-      "Sheet 跟手拖動、柔和關閉動畫",
-      "長按卡片選單可捲動",
-      "分享連結撤銷列表",
-      "衝突合併同欄位對比改善",
-      "Wallpaper 底下卡片清晰可見"
+      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
+      "Sheet 跟手拖動、柔和關閉，減少閃一下",
+      "長按卡片操作選單可捲動",
+      "Wallpaper 底下卡片仍然清晰",
+      "分享連結可撤銷列表",
+      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
     ],
     "ko": [
-      "黑半透明 glass 卡片／帳號中心／設定 sheet",
-      "Sheet 跟手拖動、柔和關閉動畫",
-      "長按卡片選單可捲動",
-      "分享連結撤銷列表",
-      "衝突合併同欄位對比改善",
-      "Wallpaper 底下卡片清晰可見"
+      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
+      "Sheet 跟手拖動、柔和關閉，減少閃一下",
+      "長按卡片操作選單可捲動",
+      "Wallpaper 底下卡片仍然清晰",
+      "分享連結可撤銷列表",
+      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
     ],
     "jp": [
-      "黑半透明 glass 卡片／帳號中心／設定 sheet",
-      "Sheet 跟手拖動、柔和關閉動畫",
-      "長按卡片選單可捲動",
-      "分享連結撤銷列表",
-      "衝突合併同欄位對比改善",
-      "Wallpaper 底下卡片清晰可見"
+      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
+      "Sheet 跟手拖動、柔和關閉，減少閃一下",
+      "長按卡片操作選單可捲動",
+      "Wallpaper 底下卡片仍然清晰",
+      "分享連結可撤銷列表",
+      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
     ]
   },
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta4-37/simexpirymanager-v5.0.2-Beta4-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.2-Beta4-arm64.apk",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta5-39/simexpirymanager-v5.0.2-Beta5-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.2-Beta5-arm64.apk",
   "apkSizeMb": 50.6,
-  "apkSha256": "b42b11f238c26bc7e3007cc1828dccf36069a5c7f0ec69064d587aca4ece38ff",
-  "apkMd5": "33322cfa1dd7488f9f1a051c6a2ef3c6",
+  "apkSha256": "016738e449d032db0ea177041931cec5ee23a69f68c92b92d9e96ee01ef4f71a",
+  "apkMd5": "ec97c128782d8eeabe73b5366c951283",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.2-Beta4-37",
-  "buildNumber": "37",
+  "releaseTag": "android-beta-v5.0.2-Beta5-39",
+  "buildNumber": "39",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-23T18:03:25.838Z",
+  "publishedAt": "2026-07-24T04:11:30.387Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "d7759ed426d3fb5c950d972ee4e2e4783b1c104ad0824081713684db095cb9ff"
+  "manifestPayloadSha256": "85da031b74b081e23f0b8fbf2e054c8c5fb18d4fe4901e33d9962f195d3a7ce0"
 }
