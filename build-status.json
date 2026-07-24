@@ -1,0 +1,14 @@
+{
+  "workflowName": "Android APK",
+  "status": "completed",
+  "conclusion": "success",
+  "channel": "beta",
+  "channelLabel": "Beta",
+  "version": "5.0.2-Beta4",
+  "buildNumber": "37",
+  "releaseTag": "android-beta-v5.0.2-Beta4-37",
+  "releaseHtmlUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/tag/android-beta-v5.0.2-Beta4-37",
+  "createdAt": "2026-07-23T18:03:40Z",
+  "publishedAt": "2026-07-23T18:03:40Z",
+  "source": "public-updates-repo"
+}
