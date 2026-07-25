@@ -1,17 +1,17 @@
 {
-  "latestVersion": "5.0.2-Beta5",
-  "runtimeVersion": "5.0.2-Beta5",
+  "latestVersion": "5.0.2-Beta6",
+  "runtimeVersion": "5.0.2-Beta6",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.2-Beta5 Beta 更新",
+  "title": "5.0.2-Beta6 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "titleByLocale": {
-    "yue-Hant": "5.0.2-Beta5 Beta 更新",
-    "zh-Hant": "5.0.2-Beta5 Beta 更新",
-    "zh-Hans": "5.0.2-Beta5 Beta 更新",
-    "en": "5.0.2-Beta5 Beta Update",
-    "ko": "5.0.2-Beta5 Beta 업데이트",
-    "jp": "5.0.2-Beta5 Beta アップデート"
+    "yue-Hant": "5.0.2-Beta6 Beta 更新",
+    "zh-Hant": "5.0.2-Beta6 Beta 更新",
+    "zh-Hans": "5.0.2-Beta6 Beta 更新",
+    "en": "5.0.2-Beta6 Beta Update",
+    "ko": "5.0.2-Beta6 Beta 업데이트",
+    "jp": "5.0.2-Beta6 Beta アップデート"
   },
   "subtitleByLocale": {
     "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
@@ -26,7 +26,7 @@
     "Sheet 跟手拖動、柔和關閉，減少閃一下",
     "長按卡片操作選單可捲動",
     "Wallpaper 底下卡片仍然清晰",
-    "分享連結可撤銷列表",
+    "分享連結可撤銷列表（管理已發出嘅只讀連結）",
     "修正 Beta4 更新公告同 Beta3 重複嘅條目"
   ],
   "changelogByLocale": {
@@ -35,7 +35,7 @@
       "Sheet 跟手拖動、柔和關閉，減少閃一下",
       "長按卡片操作選單可捲動",
       "Wallpaper 底下卡片仍然清晰",
-      "分享連結可撤銷列表",
+      "分享連結可撤銷列表（管理已發出嘅只讀連結）",
       "修正 Beta4 更新公告同 Beta3 重複嘅條目"
     ],
     "zh-Hant": [
@@ -43,54 +43,54 @@
       "Sheet 跟手拖動、柔和關閉，減少閃一下",
       "長按卡片操作選單可捲動",
       "Wallpaper 底下卡片仍然清晰",
-      "分享連結可撤銷列表",
-      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
+      "分享連結可撤銷列表（管理已發出的唯讀連結）",
+      "修正 Beta4 更新公告與 Beta3 重複的條目"
     ],
     "zh-Hans": [
-      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
-      "Sheet 跟手拖動、柔和關閉，減少閃一下",
-      "長按卡片操作選單可捲動",
-      "Wallpaper 底下卡片仍然清晰",
-      "分享連結可撤銷列表",
-      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
+      "黑半透明 glass：列表卡片、账号中心、设置 sheet",
+      "Sheet 跟手拖动、柔和关闭，减少闪一下",
+      "长按卡片操作菜单可滚动",
+      "Wallpaper 下卡片仍然清晰",
+      "分享链接可撤销列表（管理已发出的只读链接）",
+      "修正 Beta4 更新公告与 Beta3 重复的条目"
     ],
     "en": [
-      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
-      "Sheet 跟手拖動、柔和關閉，減少閃一下",
-      "長按卡片操作選單可捲動",
-      "Wallpaper 底下卡片仍然清晰",
-      "分享連結可撤銷列表",
-      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
+      "Black glass surfaces for list cards, Account Center, and Settings",
+      "Sheet drag tracking, softer dismiss, less flash",
+      "Scrollable long-press card action menu",
+      "Cards stay readable over wallpaper",
+      "Share-link revoke list for active read-only links",
+      "Remove Beta4 release-note overlap with Beta3"
     ],
     "ko": [
-      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
-      "Sheet 跟手拖動、柔和關閉，減少閃一下",
-      "長按卡片操作選單可捲動",
-      "Wallpaper 底下卡片仍然清晰",
-      "分享連結可撤銷列表",
-      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
+      "검정 글래스: 목록 카드·계정·설정 시트",
+      "시트 드래그 추적, 부드러운 닫기, 깜빡임 감소",
+      "길게 누르기 카드 메뉴 스크롤",
+      "배경화면 위에서도 카드가 선명",
+      "공유 링크 철회 목록",
+      "Beta4 공지와 Beta3 중복 항목 정리"
     ],
     "jp": [
-      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
-      "Sheet 跟手拖動、柔和關閉，減少閃一下",
-      "長按卡片操作選單可捲動",
-      "Wallpaper 底下卡片仍然清晰",
-      "分享連結可撤銷列表",
-      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
+      "黒ガラス：リストカード／アカウント／設定シート",
+      "シートの指追従・柔らかい閉じ・ちらつき軽減",
+      "長押しカードメニューをスクロール可能に",
+      "壁紙の上でもカードが見やすい",
+      "共有リンクの取り消し一覧",
+      "Beta4 告知と Beta3 の重複項目を整理"
     ]
   },
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta5-39/simexpirymanager-v5.0.2-Beta5-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.2-Beta5-arm64.apk",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta6-41/simexpirymanager-v5.0.2-Beta6-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.2-Beta6-arm64.apk",
   "apkSizeMb": 50.6,
-  "apkSha256": "016738e449d032db0ea177041931cec5ee23a69f68c92b92d9e96ee01ef4f71a",
-  "apkMd5": "ec97c128782d8eeabe73b5366c951283",
+  "apkSha256": "669358f103a4e1eb02731d08c5f15693c143621fffad3d140d3e38f5669d3004",
+  "apkMd5": "05982c6ba62bc2f97b734f974c1a1bbd",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.2-Beta5-39",
-  "buildNumber": "39",
+  "releaseTag": "android-beta-v5.0.2-Beta6-41",
+  "buildNumber": "41",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-24T04:11:30.387Z",
+  "publishedAt": "2026-07-25T13:43:40.862Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "85da031b74b081e23f0b8fbf2e054c8c5fb18d4fe4901e33d9962f195d3a7ce0"
+  "manifestPayloadSha256": "a91dc19b894c9815bf9b34be4d8e02144716be0aa2fdf0dc78a5ed7cc1de8234"
 }
