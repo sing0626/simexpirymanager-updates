@@ -22,61 +22,47 @@
     "jp": "GitHub Actions の Android Beta APK"
   },
   "changelog": [
-    "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
-    "Sheet 跟手拖動、柔和關閉，減少閃一下",
-    "長按卡片操作選單可捲動",
-    "Wallpaper 底下卡片仍然清晰",
-    "分享連結可撤銷列表（管理已發出嘅只讀連結）",
-    "修正 Beta4 更新公告同 Beta3 重複嘅條目"
+    "更新頁顯示 Package、目前／目標版本同 Android build number",
+    "修正 APK 降級、簽章不一致同無效 APK 嘅錯誤提示",
+    "Light mode glass 卡片提升對比度；用量同步加入 timeout 同取消處理",
+    "Build 失敗或取消會更新公開狀態，但唔會誤發 APK"
   ],
   "changelogByLocale": {
     "yue-Hant": [
-      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
-      "Sheet 跟手拖動、柔和關閉，減少閃一下",
-      "長按卡片操作選單可捲動",
-      "Wallpaper 底下卡片仍然清晰",
-      "分享連結可撤銷列表（管理已發出嘅只讀連結）",
-      "修正 Beta4 更新公告同 Beta3 重複嘅條目"
+      "更新頁顯示 Package、目前／目標版本同 Android build number",
+      "修正 APK 降級、簽章不一致同無效 APK 嘅錯誤提示",
+      "Light mode glass 卡片提升對比度；用量同步加入 timeout 同取消處理",
+      "Build 失敗或取消會更新公開狀態，但唔會誤發 APK"
     ],
     "zh-Hant": [
-      "黑半透明 glass：列表卡片、帳號中心、設定 sheet",
-      "Sheet 跟手拖動、柔和關閉，減少閃一下",
-      "長按卡片操作選單可捲動",
-      "Wallpaper 底下卡片仍然清晰",
-      "分享連結可撤銷列表（管理已發出的唯讀連結）",
-      "修正 Beta4 更新公告與 Beta3 重複的條目"
+      "更新頁顯示 Package、目前／目標版本與 Android build number",
+      "修正 APK 降級、簽章不一致與無效 APK 的錯誤提示",
+      "Light mode glass 卡片提升對比度；用量同步加入 timeout 與取消處理",
+      "Build 失敗或取消會更新公開狀態，但不會誤發 APK"
     ],
     "zh-Hans": [
-      "黑半透明 glass：列表卡片、账号中心、设置 sheet",
-      "Sheet 跟手拖动、柔和关闭，减少闪一下",
-      "长按卡片操作菜单可滚动",
-      "Wallpaper 下卡片仍然清晰",
-      "分享链接可撤销列表（管理已发出的只读链接）",
-      "修正 Beta4 更新公告与 Beta3 重复的条目"
+      "更新页显示 Package、当前／目标版本和 Android build number",
+      "修复 APK 降级、签名不一致和无效 APK 的错误提示",
+      "Light mode glass 卡片提升对比度；用量同步加入 timeout 和取消处理",
+      "Build 失败或取消会更新公开状态，但不会误发 APK"
     ],
     "en": [
-      "Black glass surfaces for list cards, Account Center, and Settings",
-      "Sheet drag tracking, softer dismiss, less flash",
-      "Scrollable long-press card action menu",
-      "Cards stay readable over wallpaper",
-      "Share-link revoke list for active read-only links",
-      "Remove Beta4 release-note overlap with Beta3"
+      "Show package ID, installed/target versions and Android build number in the update sheet",
+      "Distinguish APK downgrade, signing-key mismatch and invalid APK errors",
+      "Improve light-mode glass contrast and add timeout/cancellation handling to usage sync",
+      "Publish failed or cancelled build status without publishing a misleading APK"
     ],
     "ko": [
-      "검정 글래스: 목록 카드·계정·설정 시트",
-      "시트 드래그 추적, 부드러운 닫기, 깜빡임 감소",
-      "길게 누르기 카드 메뉴 스크롤",
-      "배경화면 위에서도 카드가 선명",
-      "공유 링크 철회 목록",
-      "Beta4 공지와 Beta3 중복 항목 정리"
+      "업데이트 시트에 패키지 ID, 현재／대상 버전과 Android build number 표시",
+      "APK 다운그레이드, 서명 키 불일치, 잘못된 APK 오류 구분",
+      "라이트 모드 글래스 대비 개선 및 사용량 동기화 timeout／취소 처리 추가",
+      "실패하거나 취소된 빌드는 APK 없이 상태만 공개"
     ],
     "jp": [
-      "黒ガラス：リストカード／アカウント／設定シート",
-      "シートの指追従・柔らかい閉じ・ちらつき軽減",
-      "長押しカードメニューをスクロール可能に",
-      "壁紙の上でもカードが見やすい",
-      "共有リンクの取り消し一覧",
-      "Beta4 告知と Beta3 の重複項目を整理"
+      "更新シートにパッケージ ID、現在／対象バージョンと Android build number を表示",
+      "APK のダウングレード、署名キー不一致、不正 APK のエラーを区別",
+      "ライトモードのガラス表示を改善し、使用量同期に timeout／キャンセル処理を追加",
+      "失敗・キャンセルしたビルドは APK を公開せず状態のみ記録"
     ]
   },
   "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta6-41/simexpirymanager-v5.0.2-Beta6-arm64.apk",
@@ -92,5 +78,5 @@
   "required": false,
   "publishedAt": "2026-07-25T13:43:40.862Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "a91dc19b894c9815bf9b34be4d8e02144716be0aa2fdf0dc78a5ed7cc1de8234"
+  "manifestPayloadSha256": "c77dacc6b4a59ce69c7aa10f84bdf33dac6792851bc1d0e59f5a37326baa6177"
 }
