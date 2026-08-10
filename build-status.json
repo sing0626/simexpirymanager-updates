@@ -5,9 +5,9 @@
   "channel": "beta",
   "channelLabel": "Beta",
   "version": "5.0.2",
-  "buildNumber": "42",
-  "runId": "31392852009",
-  "createdAt": "2026-08-10T13:26:58Z",
+  "buildNumber": "43",
+  "runId": "31393079002",
+  "createdAt": "2026-08-10T13:29:46Z",
   "source": "public-updates-repo",
   "message": "Build 未完成，未發布 APK。請由管理員查看 private source repo 的 Actions run。"
 }
