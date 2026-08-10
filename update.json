@@ -1,17 +1,17 @@
 {
-  "latestVersion": "5.0.2-Beta6",
-  "runtimeVersion": "5.0.2-Beta6",
+  "latestVersion": "5.0.2-Beta7",
+  "runtimeVersion": "5.0.2-Beta7",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.2-Beta6 Beta 更新",
+  "title": "5.0.2-Beta7 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "titleByLocale": {
-    "yue-Hant": "5.0.2-Beta6 Beta 更新",
-    "zh-Hant": "5.0.2-Beta6 Beta 更新",
-    "zh-Hans": "5.0.2-Beta6 Beta 更新",
-    "en": "5.0.2-Beta6 Beta Update",
-    "ko": "5.0.2-Beta6 Beta 업데이트",
-    "jp": "5.0.2-Beta6 Beta アップデート"
+    "yue-Hant": "5.0.2-Beta7 Beta 更新",
+    "zh-Hant": "5.0.2-Beta7 Beta 更新",
+    "zh-Hans": "5.0.2-Beta7 Beta 更新",
+    "en": "5.0.2-Beta7 Beta Update",
+    "ko": "5.0.2-Beta7 Beta 업데이트",
+    "jp": "5.0.2-Beta7 Beta アップデート"
   },
   "subtitleByLocale": {
     "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
@@ -22,61 +22,61 @@
     "jp": "GitHub Actions の Android Beta APK"
   },
   "changelog": [
-    "更新頁顯示 Package、目前／目標版本同 Android build number",
-    "修正 APK 降級、簽章不一致同無效 APK 嘅錯誤提示",
-    "Light mode glass 卡片提升對比度；用量同步加入 timeout 同取消處理",
-    "Build 失敗或取消會更新公開狀態，但唔會誤發 APK"
+    "分享連結統一改用 phoneweb.sing0626.com/share/...",
+    "Web 分享頁經 Cloudflare Worker 讀取限時只讀快照",
+    "撤銷／過期分享唔會畀瀏覽器或 PWA cache 留住",
+    "分享可以加 4 至 12 位數字 PIN，App 同 Web 共用同步狀態、操作紀錄同通知收件匣"
   ],
   "changelogByLocale": {
     "yue-Hant": [
-      "更新頁顯示 Package、目前／目標版本同 Android build number",
-      "修正 APK 降級、簽章不一致同無效 APK 嘅錯誤提示",
-      "Light mode glass 卡片提升對比度；用量同步加入 timeout 同取消處理",
-      "Build 失敗或取消會更新公開狀態，但唔會誤發 APK"
+      "分享連結統一改用 phoneweb.sing0626.com/share/...",
+      "Web 分享頁經 Cloudflare Worker 讀取限時只讀快照",
+      "撤銷／過期分享唔會畀瀏覽器或 PWA cache 留住",
+      "分享可以加 4 至 12 位數字 PIN，App 同 Web 共用同步狀態、操作紀錄同通知收件匣"
     ],
     "zh-Hant": [
-      "更新頁顯示 Package、目前／目標版本與 Android build number",
-      "修正 APK 降級、簽章不一致與無效 APK 的錯誤提示",
-      "Light mode glass 卡片提升對比度；用量同步加入 timeout 與取消處理",
-      "Build 失敗或取消會更新公開狀態，但不會誤發 APK"
+      "分享連結統一改用 phoneweb.sing0626.com/share/...",
+      "Web 分享頁透過 Cloudflare Worker 讀取限時唯讀快照",
+      "撤銷／過期分享不會被瀏覽器或 PWA 快取保留",
+      "分享可加入 4 至 12 位數字 PIN，App 與 Web 共用同步狀態、操作紀錄與通知收件匣"
     ],
     "zh-Hans": [
-      "更新页显示 Package、当前／目标版本和 Android build number",
-      "修复 APK 降级、签名不一致和无效 APK 的错误提示",
-      "Light mode glass 卡片提升对比度；用量同步加入 timeout 和取消处理",
-      "Build 失败或取消会更新公开状态，但不会误发 APK"
+      "分享链接统一改用 phoneweb.sing0626.com/share/...",
+      "Web 分享页通过 Cloudflare Worker 读取限时只读快照",
+      "已撤销／过期分享不会被浏览器或 PWA 缓存保留",
+      "分享可设置 4 至 12 位数字 PIN，App 与 Web 共用同步状态、操作记录和通知收件箱"
     ],
     "en": [
-      "Show package ID, installed/target versions and Android build number in the update sheet",
-      "Distinguish APK downgrade, signing-key mismatch and invalid APK errors",
-      "Improve light-mode glass contrast and add timeout/cancellation handling to usage sync",
-      "Publish failed or cancelled build status without publishing a misleading APK"
+      "Share links now use phoneweb.sing0626.com/share/...",
+      "The public share page reads time-limited snapshots through the Cloudflare Worker",
+      "Revoked and expired shares bypass browser and PWA caches",
+      "Shares support a 4–12 digit PIN, while App and Web share sync status, operation history, and notifications"
     ],
     "ko": [
-      "업데이트 시트에 패키지 ID, 현재／대상 버전과 Android build number 표시",
-      "APK 다운그레이드, 서명 키 불일치, 잘못된 APK 오류 구분",
-      "라이트 모드 글래스 대비 개선 및 사용량 동기화 timeout／취소 처리 추가",
-      "실패하거나 취소된 빌드는 APK 없이 상태만 공개"
+      "공유 링크를 phoneweb.sing0626.com/share/...로 통합",
+      "웹 공유 페이지가 Cloudflare Worker를 통해 기간 제한 읽기 전용 스냅샷을 읽음",
+      "철회되거나 만료된 공유는 브라우저와 PWA 캐시에 남지 않음",
+      "공유 PIN을 지원하고 앱과 Web에서 동기화 상태, 작업 기록, 알림을 공유"
     ],
     "jp": [
-      "更新シートにパッケージ ID、現在／対象バージョンと Android build number を表示",
-      "APK のダウングレード、署名キー不一致、不正 APK のエラーを区別",
-      "ライトモードのガラス表示を改善し、使用量同期に timeout／キャンセル処理を追加",
-      "失敗・キャンセルしたビルドは APK を公開せず状態のみ記録"
+      "共有リンクを phoneweb.sing0626.com/share/... に統一",
+      "Web 共有ページは Cloudflare Worker 経由で期限付き読み取り専用スナップショットを取得",
+      "取り消し／期限切れの共有はブラウザと PWA のキャッシュに残らない",
+      "共有 PIN に対応し、App と Web で同期状態、操作履歴、通知を共有"
     ]
   },
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta6-41/simexpirymanager-v5.0.2-Beta6-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.2-Beta6-arm64.apk",
-  "apkSizeMb": 50.6,
-  "apkSha256": "669358f103a4e1eb02731d08c5f15693c143621fffad3d140d3e38f5669d3004",
-  "apkMd5": "05982c6ba62bc2f97b734f974c1a1bbd",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta7-45/simexpirymanager-v5.0.2-Beta7-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.2-Beta7-arm64.apk",
+  "apkSizeMb": 52.3,
+  "apkSha256": "5623383ac3c59178579d9384ca84f29b1fbd10cd4d0b9fa2216bc18b7edf5f6f",
+  "apkMd5": "0f23f5f9f6ec5565a239ec71cc72ce52",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.2-Beta6-41",
-  "buildNumber": "41",
+  "releaseTag": "android-beta-v5.0.2-Beta7-45",
+  "buildNumber": "45",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-07-25T13:43:40.862Z",
+  "publishedAt": "2026-08-10T14:11:09.964Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "c77dacc6b4a59ce69c7aa10f84bdf33dac6792851bc1d0e59f5a37326baa6177"
+  "manifestPayloadSha256": "d5166cf178d99ac6f16c8f107bb6f6055de78a2ac0b6e0d594429c984b1710c7"
 }

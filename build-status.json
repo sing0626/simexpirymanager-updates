@@ -1,13 +1,14 @@
 {
   "workflowName": "Android APK",
   "status": "completed",
-  "conclusion": "failure",
+  "conclusion": "success",
   "channel": "beta",
   "channelLabel": "Beta",
-  "version": "5.0.2",
-  "buildNumber": "44",
-  "runId": "31393965132",
-  "createdAt": "2026-08-10T13:43:42Z",
-  "source": "public-updates-repo",
-  "message": "Build 未完成，未發布 APK。請由管理員查看 private source repo 的 Actions run。"
+  "version": "5.0.2-Beta7",
+  "buildNumber": "45",
+  "releaseTag": "android-beta-v5.0.2-Beta7-45",
+  "releaseHtmlUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/tag/android-beta-v5.0.2-Beta7-45",
+  "createdAt": "2026-08-10T14:11:26Z",
+  "publishedAt": "2026-08-10T14:11:26Z",
+  "source": "public-updates-repo"
 }
