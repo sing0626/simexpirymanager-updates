@@ -4,11 +4,11 @@
   "conclusion": "success",
   "channel": "beta",
   "channelLabel": "Beta",
-  "version": "5.0.2-Beta7",
-  "buildNumber": "45",
-  "releaseTag": "android-beta-v5.0.2-Beta7-45",
-  "releaseHtmlUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/tag/android-beta-v5.0.2-Beta7-45",
-  "createdAt": "2026-08-10T14:11:26Z",
-  "publishedAt": "2026-08-10T14:11:26Z",
+  "version": "5.0.2-Beta8",
+  "buildNumber": "46",
+  "releaseTag": "android-beta-v5.0.2-Beta8-46",
+  "releaseHtmlUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/tag/android-beta-v5.0.2-Beta8-46",
+  "createdAt": "2026-08-26T11:27:27Z",
+  "publishedAt": "2026-08-26T11:27:27Z",
   "source": "public-updates-repo"
 }

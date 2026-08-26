@@ -1,17 +1,17 @@
 {
-  "latestVersion": "5.0.2-Beta7",
-  "runtimeVersion": "5.0.2-Beta7",
+  "latestVersion": "5.0.2-Beta8",
+  "runtimeVersion": "5.0.2-Beta8",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.2-Beta7 Beta 更新",
+  "title": "5.0.2-Beta8 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "titleByLocale": {
-    "yue-Hant": "5.0.2-Beta7 Beta 更新",
-    "zh-Hant": "5.0.2-Beta7 Beta 更新",
-    "zh-Hans": "5.0.2-Beta7 Beta 更新",
-    "en": "5.0.2-Beta7 Beta Update",
-    "ko": "5.0.2-Beta7 Beta 업데이트",
-    "jp": "5.0.2-Beta7 Beta アップデート"
+    "yue-Hant": "5.0.2-Beta8 Beta 更新",
+    "zh-Hant": "5.0.2-Beta8 Beta 更新",
+    "zh-Hans": "5.0.2-Beta8 Beta 更新",
+    "en": "5.0.2-Beta8 Beta Update",
+    "ko": "5.0.2-Beta8 Beta 업데이트",
+    "jp": "5.0.2-Beta8 Beta アップデート"
   },
   "subtitleByLocale": {
     "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
@@ -22,61 +22,68 @@
     "jp": "GitHub Actions の Android Beta APK"
   },
   "changelog": [
-    "分享連結統一改用 phoneweb.sing0626.com/share/...",
-    "Web 分享頁經 Cloudflare Worker 讀取限時只讀快照",
-    "撤銷／過期分享唔會畀瀏覽器或 PWA cache 留住",
-    "分享可以加 4 至 12 位數字 PIN，App 同 Web 共用同步狀態、操作紀錄同通知收件匣"
+    "通知可直接查看卡片或延後 3 日；另一部裝置改卡會即時提示。",
+    "提醒中心、用量歷史及預測、到期月曆同 iCal 匯出。",
+    "批量操作、自訂檢視、活動紀錄同卡片版本還原。",
+    "支援 JSON／CSV／Excel，亦可掃電話／eSIM QR 同讀取用量截圖。",
+    "PWA、Widget、deep link、Trip Mode、模板、分享同裝置安全整合。"
   ],
   "changelogByLocale": {
     "yue-Hant": [
-      "分享連結統一改用 phoneweb.sing0626.com/share/...",
-      "Web 分享頁經 Cloudflare Worker 讀取限時只讀快照",
-      "撤銷／過期分享唔會畀瀏覽器或 PWA cache 留住",
-      "分享可以加 4 至 12 位數字 PIN，App 同 Web 共用同步狀態、操作紀錄同通知收件匣"
+      "通知可直接查看卡片或延後 3 日；另一部裝置改卡會即時提示。",
+      "提醒中心、用量歷史及預測、到期月曆同 iCal 匯出。",
+      "批量操作、自訂檢視、活動紀錄同卡片版本還原。",
+      "支援 JSON／CSV／Excel，亦可掃電話／eSIM QR 同讀取用量截圖。",
+      "PWA、Widget、deep link、Trip Mode、模板、分享同裝置安全整合。"
     ],
     "zh-Hant": [
-      "分享連結統一改用 phoneweb.sing0626.com/share/...",
-      "Web 分享頁透過 Cloudflare Worker 讀取限時唯讀快照",
-      "撤銷／過期分享不會被瀏覽器或 PWA 快取保留",
-      "分享可加入 4 至 12 位數字 PIN，App 與 Web 共用同步狀態、操作紀錄與通知收件匣"
+      "通知可直接查看卡片或延後 3 日；其他裝置修改卡片會即時提示。",
+      "提醒中心、用量歷史與預測、到期日曆及 iCal 匯出。",
+      "批次操作、自訂檢視、活動紀錄與卡片版本還原。",
+      "支援 JSON／CSV／Excel，也可掃描電話／eSIM QR 與讀取用量截圖。",
+      "PWA、Widget、deep link、Trip Mode、範本、分享與裝置安全整合。"
     ],
     "zh-Hans": [
-      "分享链接统一改用 phoneweb.sing0626.com/share/...",
-      "Web 分享页通过 Cloudflare Worker 读取限时只读快照",
-      "已撤销／过期分享不会被浏览器或 PWA 缓存保留",
-      "分享可设置 4 至 12 位数字 PIN，App 与 Web 共用同步状态、操作记录和通知收件箱"
+      "通知可直接查看卡片或延后 3 天；其他设备修改卡片会即时提示。",
+      "提醒中心、用量历史与预测、到期日历及 iCal 导出。",
+      "批量操作、自定义检视、活动记录与卡片版本还原。",
+      "支持 JSON／CSV／Excel，也可扫描电话／eSIM QR 与读取用量截图。",
+      "PWA、Widget、deep link、Trip Mode、模板、分享与设备安全整合。"
     ],
     "en": [
-      "Share links now use phoneweb.sing0626.com/share/...",
-      "The public share page reads time-limited snapshots through the Cloudflare Worker",
-      "Revoked and expired shares bypass browser and PWA caches",
-      "Shares support a 4–12 digit PIN, while App and Web share sync status, operation history, and notifications"
+      "Notifications can open a card or postpone its reminder by three days; edits from another device are surfaced immediately.",
+      "Reminder Center, usage history and projections, expiry calendar, and iCal export.",
+      "Batch actions, saved views, activity history, and card-version restore.",
+      "JSON / CSV / Excel transfer, phone / eSIM QR scanning, and screenshot-assisted usage capture.",
+      "PWA, widgets, deep links, Trip Mode, templates, sharing, and device security work together."
     ],
     "ko": [
-      "공유 링크를 phoneweb.sing0626.com/share/...로 통합",
-      "웹 공유 페이지가 Cloudflare Worker를 통해 기간 제한 읽기 전용 스냅샷을 읽음",
-      "철회되거나 만료된 공유는 브라우저와 PWA 캐시에 남지 않음",
-      "공유 PIN을 지원하고 앱과 Web에서 동기화 상태, 작업 기록, 알림을 공유"
+      "알림에서 카드를 열거나 3일 후 다시 알림을 받을 수 있으며 다른 기기의 수정도 즉시 표시됩니다.",
+      "알림 센터, 사용량 기록과 예측, 만료 캘린더 및 iCal 내보내기.",
+      "일괄 작업, 저장된 보기, 활동 기록 및 카드 버전 복원.",
+      "JSON / CSV / Excel 전송, 전화 / eSIM QR 스캔 및 사용량 스크린샷 읽기.",
+      "PWA, 위젯, 딥링크, Trip Mode, 템플릿, 공유 및 기기 보안을 통합했습니다."
     ],
     "jp": [
-      "共有リンクを phoneweb.sing0626.com/share/... に統一",
-      "Web 共有ページは Cloudflare Worker 経由で期限付き読み取り専用スナップショットを取得",
-      "取り消し／期限切れの共有はブラウザと PWA のキャッシュに残らない",
-      "共有 PIN に対応し、App と Web で同期状態、操作履歴、通知を共有"
+      "通知からカードを開くか3日後に再通知でき、別端末での更新もすぐ表示されます。",
+      "リマインダーセンター、使用量履歴と予測、有効期限カレンダー、iCal書き出し。",
+      "一括操作、保存ビュー、操作履歴、カードバージョン復元。",
+      "JSON / CSV / Excel 転送、電話 / eSIM QR スキャン、使用量スクリーンショット読み取り。",
+      "PWA、ウィジェット、ディープリンク、Trip Mode、テンプレート、共有、端末保護を統合。"
     ]
   },
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta7-45/simexpirymanager-v5.0.2-Beta7-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.2-Beta7-arm64.apk",
-  "apkSizeMb": 52.3,
-  "apkSha256": "5623383ac3c59178579d9384ca84f29b1fbd10cd4d0b9fa2216bc18b7edf5f6f",
-  "apkMd5": "0f23f5f9f6ec5565a239ec71cc72ce52",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta8-46/simexpirymanager-v5.0.2-Beta8-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.2-Beta8-arm64.apk",
+  "apkSizeMb": 54.1,
+  "apkSha256": "4daaeb06120a6170dd6b246dd04945ede4f715093317360597e6fdd3e3a26704",
+  "apkMd5": "bd0e9939b04c0232af8321365da5cb62",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.2-Beta7-45",
-  "buildNumber": "45",
+  "releaseTag": "android-beta-v5.0.2-Beta8-46",
+  "buildNumber": "46",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-08-10T14:11:09.964Z",
+  "publishedAt": "2026-08-26T11:27:11.188Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "d5166cf178d99ac6f16c8f107bb6f6055de78a2ac0b6e0d594429c984b1710c7"
+  "manifestPayloadSha256": "904e867b03b796a8b15e62b528bda47615636ab3d6f2956987614ec17b7ce936"
 }
