@@ -1,17 +1,17 @@
 {
-  "latestVersion": "5.0.2-Beta10",
-  "runtimeVersion": "5.0.2-Beta10",
+  "latestVersion": "5.0.3-Beta1",
+  "runtimeVersion": "5.0.3-Beta1",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.2-Beta10 Beta 更新",
+  "title": "5.0.3-Beta1 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "titleByLocale": {
-    "yue-Hant": "5.0.2-Beta10 Beta 更新",
-    "zh-Hant": "5.0.2-Beta10 Beta 更新",
-    "zh-Hans": "5.0.2-Beta10 Beta 更新",
-    "en": "5.0.2-Beta10 Beta Update",
-    "ko": "5.0.2-Beta10 Beta 업데이트",
-    "jp": "5.0.2-Beta10 Beta アップデート"
+    "yue-Hant": "5.0.3-Beta1 Beta 更新",
+    "zh-Hant": "5.0.3-Beta1 Beta 更新",
+    "zh-Hans": "5.0.3-Beta1 Beta 更新",
+    "en": "5.0.3-Beta1 Beta Update",
+    "ko": "5.0.3-Beta1 Beta 업데이트",
+    "jp": "5.0.3-Beta1 Beta アップデート"
   },
   "subtitleByLocale": {
     "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
@@ -22,68 +22,89 @@
     "jp": "GitHub Actions の Android Beta APK"
   },
   "changelog": [
-    "通知可直接查看卡片或延後 3 日；另一部裝置改卡會即時提示。",
-    "提醒中心、用量歷史及預測、到期月曆同 iCal 匯出。",
-    "批量操作、自訂檢視、活動紀錄同卡片版本還原。",
-    "支援 JSON／CSV／Excel，亦可掃電話／eSIM QR 同讀取用量截圖。",
-    "PWA、Widget、deep link、Trip Mode、模板、分享同裝置安全整合。"
+    "PIN 保護分享改為伺服器端驗證，冇正確 PIN 睇唔到內容；hash 已加鹽。",
+    "用量提醒唔會再每次同步重複發，會跟每個截數週期計算；MB／GB 混用嘅計法修正。",
+    "版本歷史快速切換唔會再撈亂卡片，還原前會核對目標卡。",
+    "重複卡合併同 Trip 儲存加入防雙擊，唔會重複寫入。",
+    "Web 同步唔會再寫壞餘額等原始資料；離線修改重連後會自動送出。",
+    "iOS／Android Widget：倒數每日自動更新、系統主題跟隨、總數即時重算。",
+    "CSV 防公式注入；Roaming 卡匯入匯出保留原本類型；雲端備份唔會同日覆蓋。",
+    "日文翻譯全面修正；詳情頁、通知時間同日期顯示問題一併處理。"
   ],
   "changelogByLocale": {
     "yue-Hant": [
-      "通知可直接查看卡片或延後 3 日；另一部裝置改卡會即時提示。",
-      "提醒中心、用量歷史及預測、到期月曆同 iCal 匯出。",
-      "批量操作、自訂檢視、活動紀錄同卡片版本還原。",
-      "支援 JSON／CSV／Excel，亦可掃電話／eSIM QR 同讀取用量截圖。",
-      "PWA、Widget、deep link、Trip Mode、模板、分享同裝置安全整合。"
+      "PIN 保護分享改為伺服器端驗證，冇正確 PIN 睇唔到內容；hash 已加鹽。",
+      "用量提醒唔會再每次同步重複發，會跟每個截數週期計算；MB／GB 混用嘅計法修正。",
+      "版本歷史快速切換唔會再撈亂卡片，還原前會核對目標卡。",
+      "重複卡合併同 Trip 儲存加入防雙擊，唔會重複寫入。",
+      "Web 同步唔會再寫壞餘額等原始資料；離線修改重連後會自動送出。",
+      "iOS／Android Widget：倒數每日自動更新、系統主題跟隨、總數即時重算。",
+      "CSV 防公式注入；Roaming 卡匯入匯出保留原本類型；雲端備份唔會同日覆蓋。",
+      "日文翻譯全面修正；詳情頁、通知時間同日期顯示問題一併處理。"
     ],
     "zh-Hant": [
-      "通知可直接查看卡片或延後 3 日；其他裝置修改卡片會即時提示。",
-      "提醒中心、用量歷史與預測、到期日曆及 iCal 匯出。",
-      "批次操作、自訂檢視、活動紀錄與卡片版本還原。",
-      "支援 JSON／CSV／Excel，也可掃描電話／eSIM QR 與讀取用量截圖。",
-      "PWA、Widget、deep link、Trip Mode、範本、分享與裝置安全整合。"
+      "PIN 保護分享改為伺服器端驗證，沒有正確 PIN 就看不到內容；hash 已加鹽。",
+      "用量提醒不會再每次同步重複發送，改為依每個帳單週期計算；MB／GB 混用計算修正。",
+      "版本歷史快速切換不會再搞混卡片，還原前會核對目標卡片。",
+      "重複卡合併與 Trip 儲存加入防雙擊，不會重複寫入。",
+      "Web 同步不會再寫壞餘額等原始資料；離線修改重連後會自動送出。",
+      "iOS／Android Widget：倒數每日自動更新、系統主題跟隨、總數即時重算。",
+      "CSV 防公式注入；Roaming 卡匯入匯出保留原本類型；雲端備份不會同日覆蓋。",
+      "日文翻譯全面修正；詳情頁、通知時間與日期顯示問題一併處理。"
     ],
     "zh-Hans": [
-      "通知可直接查看卡片或延后 3 天；其他设备修改卡片会即时提示。",
-      "提醒中心、用量历史与预测、到期日历及 iCal 导出。",
-      "批量操作、自定义检视、活动记录与卡片版本还原。",
-      "支持 JSON／CSV／Excel，也可扫描电话／eSIM QR 与读取用量截图。",
-      "PWA、Widget、deep link、Trip Mode、模板、分享与设备安全整合。"
+      "PIN 保护分享改为服务端验证，没有正确 PIN 就看不到内容；hash 已加盐。",
+      "用量提醒不会再每次同步重复发送，改为按每个账单周期计算；MB／GB 混用计算已修正。",
+      "版本历史快速切换不会搞混卡片，还原前会核对目标卡片。",
+      "重复卡合并与 Trip 保存加入防双击，不会重复写入。",
+      "Web 同步不会再写坏余额等原始数据；离线修改重连后会自动发送。",
+      "iOS／Android Widget：倒数每日自动更新、跟随系统主题、总数实时重算。",
+      "CSV 防公式注入；漫游卡导入导出保留原类型；云端备份不会同日覆盖。",
+      "日文翻译全面修正；详情页、通知时间与日期显示问题一并处理。"
     ],
     "en": [
-      "Notifications can open a card or postpone its reminder by three days; edits from another device are surfaced immediately.",
-      "Reminder Center, usage history and projections, expiry calendar, and iCal export.",
-      "Batch actions, saved views, activity history, and card-version restore.",
-      "JSON / CSV / Excel transfer, phone / eSIM QR scanning, and screenshot-assisted usage capture.",
-      "PWA, widgets, deep links, Trip Mode, templates, sharing, and device security work together."
+      "PIN-protected shares are now verified server-side; content requires the correct PIN and hashes are salted.",
+      "Usage alerts no longer repeat on every sync and now follow each billing cycle; mixed MB/GB math is fixed.",
+      "Card version history no longer mixes cards during fast switching; restore verifies the target card.",
+      "Duplicate-card merge and trip saving are protected against double-taps.",
+      "Web sync no longer corrupts raw fields like balance; offline edits flush automatically after reconnect.",
+      "iOS and Android widgets refresh countdowns daily, follow the system theme, and recompute totals live.",
+      "CSV guards against formula injection; roaming cards round-trip their type; same-day cloud backups no longer overwrite.",
+      "Japanese translations fully corrected; detail screen, notification time, and date display issues fixed."
     ],
     "ko": [
-      "알림에서 카드를 열거나 3일 후 다시 알림을 받을 수 있으며 다른 기기의 수정도 즉시 표시됩니다.",
-      "알림 센터, 사용량 기록과 예측, 만료 캘린더 및 iCal 내보내기.",
-      "일괄 작업, 저장된 보기, 활동 기록 및 카드 버전 복원.",
-      "JSON / CSV / Excel 전송, 전화 / eSIM QR 스캔 및 사용량 스크린샷 읽기.",
-      "PWA, 위젯, 딥링크, Trip Mode, 템플릿, 공유 및 기기 보안을 통합했습니다."
+      "PIN 보호 공유를 서버에서 검증하며 올바른 PIN이 없으면 내용을 볼 수 없습니다. 해시에 솔트가 적용됩니다.",
+      "사용량 알림이 동기화마다 반복되지 않고 각 결제 주기별로 계산되며 MB/GB 혼용 계산이 수정되었습니다.",
+      "버전 기록을 빠르게 전환해도 카드가 섞이지 않으며 복원 전 대상 카드를 확인합니다.",
+      "중복 카드 병합과 Trip 저장에 이중 클릭 방지가 적용됩니다.",
+      "웹 동기화가 잔액 등 원본 데이터를 손상시키지 않으며 오프라인 수정은 재연결 후 자동 전송됩니다.",
+      "iOS/Android 위젯이 매일 카운트다운을 갱신하고 시스템 테마를 따르며 합계를 실시간 계산합니다.",
+      "CSV 수식 주입 방지, 로밍 카드 유형 유지, 같은 날 클라우드 백업 덮어쓰기 방지.",
+      "일본어 번역 전면 수정 및 상세 화면·알림 시간·날짜 표시 문제 해결."
     ],
     "jp": [
-      "通知からカードを開くか3日後に再通知でき、別端末での更新もすぐ表示されます。",
-      "リマインダーセンター、使用量履歴と予測、有効期限カレンダー、iCal書き出し。",
-      "一括操作、保存ビュー、操作履歴、カードバージョン復元。",
-      "JSON / CSV / Excel 転送、電話 / eSIM QR スキャン、使用量スクリーンショット読み取り。",
-      "PWA、ウィジェット、ディープリンク、Trip Mode、テンプレート、共有、端末保護を統合。"
+      "PIN保護共有はサーバー側で検証され、正しいPINがないと内容を閲覧できません。ハッシュにはソルトを適用。",
+      "使用量アラートが同期のたびに繰り返し送信されなくなり、請求サイクルごとに計算。MB/GB混在の計算も修正。",
+      "バージョン履歴を素早く切り替えてもカードが混ざらず、復元前に対象カードを確認します。",
+      "重複カードの結合とTrip保存に二重タップ防止を適用。",
+      "Web同期が残高などの元データを壊さず、オフラインでの編集は再接続後に自動送信されます。",
+      "iOS/Androidウィジェットは毎日カウントダウンを更新し、システムテーマに追従して合計をリアルタイム計算。",
+      "CSVの数式インジェクション対策、ローミングカードの種別保持、同日クラウドバックアップの上書き防止。",
+      "日本語翻訳を全面的に修正し、詳細画面・通知時刻・日付表示の問題も解決。"
     ]
   },
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta10-49/simexpirymanager-v5.0.2-Beta10-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.2-Beta10-arm64.apk",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.3-Beta1-50/simexpirymanager-v5.0.3-Beta1-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.3-Beta1-arm64.apk",
   "apkSizeMb": 54.1,
-  "apkSha256": "9c76f6e4e0a1fd8a91fe32be9c198e044d0a099fb0a5f20bb3a0b33d7d1144a1",
-  "apkMd5": "213b704cf53aed6122b1f473c4de748b",
+  "apkSha256": "056b5020195e2ba4e644ff4a7a7af3a6fb43dd7da2bcaf486ecb3738c1b8f6cc",
+  "apkMd5": "3e0d9df02461b6eb699440f800b3d46d",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.2-Beta10-49",
-  "buildNumber": "49",
+  "releaseTag": "android-beta-v5.0.3-Beta1-50",
+  "buildNumber": "50",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-09-16T05:54:15.010Z",
+  "publishedAt": "2026-09-16T09:06:20.651Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "ed6d253bb1122be8bb192d7aef96b5d6be89498d24debda0489483232e8ff938"
+  "manifestPayloadSha256": "eb9ed8456c5c3b7338ac97fbab2b6a312e3a067bea2f96b84ca3f346a30caf6a"
 }
