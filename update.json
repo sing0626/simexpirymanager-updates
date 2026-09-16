@@ -1,17 +1,17 @@
 {
-  "latestVersion": "5.0.2-Beta9",
-  "runtimeVersion": "5.0.2-Beta9",
+  "latestVersion": "5.0.2-Beta10",
+  "runtimeVersion": "5.0.2-Beta10",
   "channel": "beta",
   "type": "apk",
-  "title": "5.0.2-Beta9 Beta 更新",
+  "title": "5.0.2-Beta10 Beta 更新",
   "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
   "titleByLocale": {
-    "yue-Hant": "5.0.2-Beta9 Beta 更新",
-    "zh-Hant": "5.0.2-Beta9 Beta 更新",
-    "zh-Hans": "5.0.2-Beta9 Beta 更新",
-    "en": "5.0.2-Beta9 Beta Update",
-    "ko": "5.0.2-Beta9 Beta 업데이트",
-    "jp": "5.0.2-Beta9 Beta アップデート"
+    "yue-Hant": "5.0.2-Beta10 Beta 更新",
+    "zh-Hant": "5.0.2-Beta10 Beta 更新",
+    "zh-Hans": "5.0.2-Beta10 Beta 更新",
+    "en": "5.0.2-Beta10 Beta Update",
+    "ko": "5.0.2-Beta10 Beta 업데이트",
+    "jp": "5.0.2-Beta10 Beta アップデート"
   },
   "subtitleByLocale": {
     "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
@@ -72,18 +72,18 @@
       "PWA、ウィジェット、ディープリンク、Trip Mode、テンプレート、共有、端末保護を統合。"
     ]
   },
-  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta9-48/simexpirymanager-v5.0.2-Beta9-arm64.apk",
-  "apkFile": "simexpirymanager-v5.0.2-Beta9-arm64.apk",
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-beta-v5.0.2-Beta10-49/simexpirymanager-v5.0.2-Beta10-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.2-Beta10-arm64.apk",
   "apkSizeMb": 54.1,
-  "apkSha256": "6e26bd69b70dc1edb4e0bd1e4a3460e50d756c618dc64bccce8d80d57719bad8",
-  "apkMd5": "548a1becff21ee7e7cd86a4adeecce4f",
+  "apkSha256": "9c76f6e4e0a1fd8a91fe32be9c198e044d0a099fb0a5f20bb3a0b33d7d1144a1",
+  "apkMd5": "213b704cf53aed6122b1f473c4de748b",
   "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
   "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-  "releaseTag": "android-beta-v5.0.2-Beta9-48",
-  "buildNumber": "48",
+  "releaseTag": "android-beta-v5.0.2-Beta10-49",
+  "buildNumber": "49",
   "sourceName": "GitHub Releases",
   "required": false,
-  "publishedAt": "2026-09-15T02:27:28.036Z",
+  "publishedAt": "2026-09-16T05:54:15.010Z",
   "manifestDigestAlgorithm": "sha256-canonical-json-v1",
-  "manifestPayloadSha256": "c4312857a706c0be4c5f8b37acc4709b691e67737a077e52b2f21caf9ff42765"
+  "manifestPayloadSha256": "ed6d253bb1122be8bb192d7aef96b5d6be89498d24debda0489483232e8ff938"
 }
