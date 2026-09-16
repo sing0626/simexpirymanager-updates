@@ -1,0 +1,75 @@
+{
+  "latestVersion": "5.0.3-Debug-01",
+  "runtimeVersion": "5.0.3-Debug-01",
+  "channel": "debug",
+  "type": "apk",
+  "title": "5.0.3-Debug-01 Beta 更新",
+  "subtitle": "由 GitHub Actions 生成嘅 Android Beta APK",
+  "titleByLocale": {
+    "yue-Hant": "5.0.3-Debug-01 Beta 更新",
+    "zh-Hant": "5.0.3-Debug-01 Beta 更新",
+    "zh-Hans": "5.0.3-Debug-01 Beta 更新",
+    "en": "5.0.3-Debug-01 Beta Update",
+    "ko": "5.0.3-Debug-01 Beta 업데이트",
+    "jp": "5.0.3-Debug-01 Beta アップデート"
+  },
+  "subtitleByLocale": {
+    "yue-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
+    "zh-Hant": "由 GitHub Actions 生成嘅 Android Beta APK",
+    "zh-Hans": "由 GitHub Actions 生成的 Android Beta APK",
+    "en": "Android Beta APK from GitHub Actions",
+    "ko": "GitHub Actions Android Beta APK",
+    "jp": "GitHub Actions の Android Beta APK"
+  },
+  "changelog": [
+    "5.0.3 Debug 01",
+    "Admin-only Liquid Glass Debug panel",
+    "Isolated Debug OTA manifest"
+  ],
+  "changelogByLocale": {
+    "yue-Hant": [
+      "5.0.3 Debug 01",
+      "Admin-only Liquid Glass Debug panel",
+      "Isolated Debug OTA manifest"
+    ],
+    "zh-Hant": [
+      "5.0.3 Debug 01",
+      "Admin-only Liquid Glass Debug panel",
+      "Isolated Debug OTA manifest"
+    ],
+    "zh-Hans": [
+      "5.0.3 Debug 01",
+      "Admin-only Liquid Glass Debug panel",
+      "Isolated Debug OTA manifest"
+    ],
+    "en": [
+      "5.0.3 Debug 01",
+      "Admin-only Liquid Glass Debug panel",
+      "Isolated Debug OTA manifest"
+    ],
+    "ko": [
+      "5.0.3 Debug 01",
+      "Admin-only Liquid Glass Debug panel",
+      "Isolated Debug OTA manifest"
+    ],
+    "jp": [
+      "5.0.3 Debug 01",
+      "Admin-only Liquid Glass Debug panel",
+      "Isolated Debug OTA manifest"
+    ]
+  },
+  "apkUrl": "https://github.com/sing0626/simexpirymanager-updates/releases/download/android-debug-v5.0.3-Debug-01-52/simexpirymanager-v5.0.3-Debug-01-arm64.apk",
+  "apkFile": "simexpirymanager-v5.0.3-Debug-01-arm64.apk",
+  "apkSizeMb": 54.1,
+  "apkSha256": "5fc462a84587e2a6ac4451f6e25a4b92671a980d3ca2ba058f63c44be9c5bed6",
+  "apkMd5": "d200a8bf371a65114c1ac0407538f557",
+  "apkSigningSha1": "5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25",
+  "apkSigningSha256": "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+  "releaseTag": "android-debug-v5.0.3-Debug-01-52",
+  "buildNumber": "52",
+  "sourceName": "GitHub Releases",
+  "required": false,
+  "publishedAt": "2026-09-16T11:51:15.328Z",
+  "manifestDigestAlgorithm": "sha256-canonical-json-v1",
+  "manifestPayloadSha256": "9b3b0146cc5ccec060452d962b4f229fbdc37f33a15714dfb3cb84459f8c264d"
+}
